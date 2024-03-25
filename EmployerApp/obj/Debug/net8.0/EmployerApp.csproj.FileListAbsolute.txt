@@ -1,0 +1,14 @@
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\bin\Debug\net8.0\EmployerApp.exe
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\bin\Debug\net8.0\EmployerApp.deps.json
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\bin\Debug\net8.0\EmployerApp.runtimeconfig.json
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\bin\Debug\net8.0\EmployerApp.dll
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\bin\Debug\net8.0\EmployerApp.pdb
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\obj\Debug\net8.0\EmployerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\obj\Debug\net8.0\EmployerApp.AssemblyInfoInputs.cache
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\obj\Debug\net8.0\EmployerApp.AssemblyInfo.cs
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\obj\Debug\net8.0\EmployerApp.csproj.CoreCompileInputs.cache
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\obj\Debug\net8.0\EmployerApp.dll
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\obj\Debug\net8.0\refint\EmployerApp.dll
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\obj\Debug\net8.0\EmployerApp.pdb
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\obj\Debug\net8.0\EmployerApp.genruntimeconfig.cache
+C:\Users\lamer\RiderProjects\EmployerApp\EmployerApp\obj\Debug\net8.0\ref\EmployerApp.dll
